@@ -35,7 +35,7 @@ Put the `backlight-change` file somewhere where your `$PATH` variable points. Fo
 
 ```sh
 cd /tmp &&\
-    git clone --depth=1 https://github.com/emgyrz/backlight-change.git backlight-change &&\
+    git clone --depth=1 https://github.com/eelucaslima/backlight-change.git backlight-change &&\
     cd $_ &&\
     cp ./backlight-change ~/.local/bin/ &&\
     echo Done
